@@ -6,6 +6,7 @@ body {
 
 .job-container {
     margin: 50px auto;
+    -webkit-tap-highlight-color: transparent;
 }
 
 #job {
